@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+public/pdf.worker.min.mjs
+public/pdf-assets/
+artifacts/
+*.log
+data/
